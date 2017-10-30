@@ -1,0 +1,13 @@
+{
+    "name": "example/greeting",
+    "description": "example router greeting in repositoriey php framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harrieanto",
+            "email": "harrie_xo@yahoo.co.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
